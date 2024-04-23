@@ -15,7 +15,7 @@ This project demonstrates how to run and manage models locally using [Ollama](ht
 Before running the app, ensure you have Python installed on your machine. Then, clone this repository and install the required packages using pip:
 
 ```bash
-git clone 
+git clone https://github.com/Aadya1603/Ollama_UI.git
 ```
 
 ```bash
