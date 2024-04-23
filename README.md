@@ -19,7 +19,8 @@ git clone https://github.com/Aadya1603/Ollama_UI.git
 ```
 
 ```bash
-cd ollama_Ui
+cd Ollama_UI
+
 ```
 
 ```bash
