@@ -1,4 +1,4 @@
-**Ollama x Streamlit Playground**
+#  Ollama x Streamlit Playground
 
 This project demonstrates how to run and manage models locally using [Ollama](https://ollama.com/) by creating an interactive UI with [Streamlit](https://streamlit.io).
 
