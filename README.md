@@ -31,7 +31,7 @@ pip install -r requirements.txt
 To start the app, run the following command in your terminal:
 
 ```bash
-streamlit chat.py
+streamlit run chat.py
 ```
 
 Navigate to the URL provided by Streamlit in your browser to interact with the app.
